@@ -2,7 +2,6 @@
 by Wen Jie Chen
 
 # Context
-I am a [HSTAT](https://www.hstat.org/].
-[Next](entry02.md)
+I am a [HSTAT]9https://www.hstat.org/).
 
 [Home](../README.md)
