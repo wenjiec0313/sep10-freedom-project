@@ -1,7 +1,7 @@
 # My Topic Choice For SEP 10 Freedom Project
 by Wen Jie Chen
 
-Text
+#Context
 
 [Next](entry02.md)
 
