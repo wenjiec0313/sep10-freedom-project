@@ -11,5 +11,8 @@ One skill that I learned during this experience is _How to search for specifc in
 ### How to analyze/skim text or articles
 Another skill that I learned during this expierence is _How to analyze texts_ this skill is important as it helps sort out the needed and the unnecessary info, this helps save time,and finding the right info that fits your idea will greatly impact the structure and outcome of your project,tips/note to self on how to analyze quickly use ctrl + f/ cmd + f to find key words that connect to the project "technology" so ctrl+f/cmd+f and then type "technology"
 
+# Summary
+Generally, I'm really excited to learn web design and get to create a website for my passion, researching websites about my passion and designing/styling the looks of my website.
+
 
 [Home](../README.md)
