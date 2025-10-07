@@ -5,7 +5,7 @@ The topic I decided on is Astrophysics because I love learning about astrology a
 
 # EDP
 Currently I'm on step 1(define the problem) and step 2(research the problem) of the EDP(engineering design process)as this is just the mere beginning of my project and we just finished on finding what we're passionate about, now we're taking a deeper dive on that topic, and researching about this topic's technology "Space and ground telescope, detectors and AI used for data storage"I'll be stuck on step 2 for a good while to brainstorm ideas for my freedom project
-#Skill 
+# Skill 
 One skill that I learned during this experience is _How to search for specifc info_,I'm saying this because in order to succeed in this project, you'll need to find specific info that you need, we know everything in the article/text may be cool and stuff but they aren't always needed and something the entire article may not even connect to your project, so adding a specific word helped me find the specific info that i needed, instead of searching "Astrophysics" search "Astrophysics technology" or "Instruments of Astrophysics"With a few added words it narrows down the info into ones you needed but still be aware, not all info are needed, so analyze  
 
 
