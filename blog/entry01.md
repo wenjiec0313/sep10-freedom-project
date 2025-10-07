@@ -1,4 +1,4 @@
-# Entry 1
+# My Topic Choice For SEP 10 Freedom Project
 ##### X/X/XX
 
 Text
