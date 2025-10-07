@@ -1,5 +1,5 @@
 # My Topic Choice For SEP 10 Freedom Project
-##### X/X/XX
+by Wen Jie Chen
 
 Text
 
