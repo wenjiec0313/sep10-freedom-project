@@ -7,9 +7,7 @@ Topic: **X**
 
 ## Part A: existing technology
 * Tech
-  * Detail
-  * [image text](image URL)
-
+  * [SkySafari7](https://skysafariastronomy.com/)
 ## Part B: possible future technology
 * Idea
   * Detail
