@@ -10,6 +10,10 @@ Topic: **X**
   * [SkySafari7](https://skysafariastronomy.com/)
   * A app about star gazing
   * finds events such as solar eclipse,lunar phases, planetary occultations and etc.
+  * [MESA](https://mesastar.org/)
+  * Helps run simulated experiments
+  * Great for collecting data for astrophysics students
+  * Great educational app/simulation.
 ## Part B: possible future technology
 * Idea
   * Detail
