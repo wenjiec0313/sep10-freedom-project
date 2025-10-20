@@ -21,7 +21,10 @@ Topic: **X**
   * good for experimental simulation
   * Runs on any hardware, simulation/app website
   * [Stellarium](https://stellarium.org/)
-  * 
+  * Software that helps users stargaze, it's like a binoculars or a telescope but with the naked eye
+  * Requires a computer
+  * Minimal:Windows 7 and above; macOS 10.13 and above
+  * In general a great software for astrophysics
 ## Part B: possible future technology
 * Idea
   * Detail
