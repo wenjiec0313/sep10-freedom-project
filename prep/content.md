@@ -30,9 +30,10 @@ Topic: **X**
   * There's ground-based telescope used to observe stars and light that are visible on earth using a telescope
   * There are also space-based telescopes where they're located on a space craft, helping us discover more about outer space
   * There are Radio telescope to  detect radio waves from celestial objects
+  * All of the telescope are great ways fro us to discover and detect things(radio waves, stars, light)
   * There's also the gravitional wave detector that measures tiny ripple in spacetime
   * There's also Neutrino detectors that captures elusive subatomic particles from space
-  * Spectrometers that analyze the light from stars and galaxies to determine their composition  and other propties]
+  * Spectrometers that analyze the light from stars and galaxies to determine their composition  and other propties
   * Space probes, Robotic  spacecraft that are sent to study celestial bodies up close
   * These space probes can be great hardware for us to get a first impression of this celestial bodies, safe or not? and etc
 
