@@ -2,7 +2,9 @@
 Topic: **Astrophysics**
 
 ### Overview/Introduction/Context
-Astrophysics is a topic that incorpates both astrology and physics, studying about celestial bodies using physics, this requires advanced math skills and information on celestial bodies(Black holes, planets, stars and etc)
+* Astrophysics is a topic that incorporates both astrology and physics
+* studying about celestial bodies using physics,technologies help astrophysicists analyize info and simulate experiments.
+* this requires advanced math skills and information on celestial bodies(Black holes, planets, stars and etc)
 
 ## Part A: existing technology
 * Software Tech
