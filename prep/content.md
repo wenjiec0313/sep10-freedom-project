@@ -7,7 +7,7 @@ Topic: **Astrophysics**
 * this requires advanced math skills and information on celestial bodies(Black holes, planets, stars and etc)
 
 ## Part A: existing technology
-* Software Tech
+* Least Complext
   * [SkySafari7](https://skysafariastronomy.com/)
   * A app about star gazing
   * finds events such as solar eclipse,lunar phases, planetary occultations and etc.
@@ -26,7 +26,7 @@ Topic: **Astrophysics**
   * Requires a computer
   * Minimal:Windows 7 and above; macOS 10.13 and above
   * In general a great software for astrophysics
-* Hardware/Devices used by astrophysicists
+* Mildly Complex
   * Telescopes
   * There's ground-based telescope used to observe stars and light that are visible on earth using a telescope
   * There are also space-based telescopes where they're located on a space craft, helping us discover more about outer space
@@ -45,7 +45,7 @@ Topic: **Astrophysics**
   * Bolometer, They are used in microwave and radio astronomy, these detectors measure the energy of incoming photons by registering how much they warm a superconducting material.
   * X-ray and gamma-ray telescopes Because Earth's atmosphere blocks these high-energy wavelengths, these telescopes are launched into space. The Chandra X-ray Observatory is a prime example.
   * These telescopes help observe X-ray and Gamma rays as earth's atmosphere blockes these high-energy wavelengths preventing us from observing and learning more about them
-
+*  Most Complex
 ## Part B: possible future technology
 * Idea
   * Detail
