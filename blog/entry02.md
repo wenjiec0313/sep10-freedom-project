@@ -9,7 +9,7 @@ I feel like I'm on step 2 or 3(Research the problem/Brainstorm solutions), eithe
 # Skills
 I learnt many skills during Researching for Part 1 Some are:
 
-## How to read
+### How to read
 It's extremely important to read and analyze these apps carefully to make sure they are relevant to the topic that your searching about or you'll end up with information that seems useless but aren't, skimming would also work but you can miss small details,let's say you're researching ktichen technology but slowly the topic begins to shift into a different topic, that's a sign to move on, so you don't collect the wrong information needed for your project.
 
 [Previous](entry01.md) | [Next](entry03.md)
