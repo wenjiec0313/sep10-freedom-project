@@ -38,13 +38,13 @@ Topic: **Astrophysics**
   * These telescopes help observe X-ray and Gamma rays as earth's atmosphere blockes these high-energy wavelengths preventing us from observing and learning more about them
 *  Most Complex
 *    Spectrometers that analyze the light from stars and galaxies to determine their composition  and other propties
-    *  Space probes, Robotic  spacecraft that are sent to study celestial bodies up close
-  *  These space probes can be great hardware for us to get a first impression of this celestial bodies, safe or not? and etc
-  *  There are also supporting hardwares such as:
-  *  Supercomputers, this serves as a data stroage and can help simulate complext simulations to test certain tests.
-  *  Adaptive Optics, a system used for the ground-based telescope to correct atmosphere blurring
-  *  CCD cameras and filters used with telescopes to capture and record images of celestial body.
-  *  Interferometers:Arrays of telescope or radio dishes that work together to produce higher-resoultion images than a single instrument could achieve
+*    Space probes, Robotic  spacecraft that are sent to study celestial bodies up close
+  *    These space probes can be great hardware for us to get a first impression of this celestial bodies, safe or not? and etc
+  *    There are also supporting hardwares such as:
+  *    Supercomputers, this serves as a data stroage and can help simulate complext simulations to test certain tests.
+  *    Adaptive Optics, a system used for the ground-based telescope to correct atmosphere blurring
+  *    CCD cameras and filters used with telescopes to capture and record images of celestial body.
+  *    Interferometers:Arrays of telescope or radio dishes that work together to produce higher-resoultion images than a single instrument could achieve
   *  Bolometer, They are used in microwave and radio astronomy, these detectors measure the energy of incoming photons by registering how much they warm a superconducting material.
 ## Part B: possible future technology
 * Idea
