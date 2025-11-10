@@ -5,7 +5,7 @@ While searching for hardware and software for my topic "AstroPhysics",I found ma
 (Minimal:Windows 7 and above; macOS 10.13 and above)
 
 # EDP
-I feel like I'm on step 2 or 3, either still researching the problem or ready to move on and start brainstorming about more future technologies for my selected subjects, but I'm still quite unsure and would need a little more research so I lean towards step 2,research is still needed so I can find issues so I can use these ideas to enhance my thinking for future possible technologies that could help people within this subject(Astrophysics)
+I feel like I'm on step 2 or 3(Research the problem/Brainstorm solutions), either still researching the problem or ready to move on and start brainstorming about more future technologies for my selected subjects, but I'm still quite unsure and would need a little more research so I lean towards step 2,research is still needed so I can find issues so I can use these ideas to enhance my thinking for future possible technologies that could help people within this subject(Astrophysics)
 
 [Previous](entry01.md) | [Next](entry03.md)
 
