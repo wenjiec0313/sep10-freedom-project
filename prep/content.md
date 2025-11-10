@@ -37,7 +37,7 @@ Topic: **Astrophysics**
   * X-ray and gamma-ray telescopes Because Earth's atmosphere blocks these high-energy wavelengths, these telescopes are launched into space. The Chandra X-ray Observatory is a prime example.
   * These telescopes help observe X-ray and Gamma rays as earth's atmosphere blockes these high-energy wavelengths preventing us from observing and learning more about them
 *  Most Complex
-*    Spectrometers that analyze the light from stars and galaxies to determine their composition  and other propties
+  * Spectrometers that analyze the light from stars and galaxies to determine their composition  and other propties
 *    Space probes, Robotic  spacecraft that are sent to study celestial bodies up close
   *    These space probes can be great hardware for us to get a first impression of this celestial bodies, safe or not? and etc
   *    There are also supporting hardwares such as:
