@@ -49,7 +49,7 @@ Topic: **Astrophysics**
 ## Part B: possible future technology
 * Idea
 *    What's better than a supercomputer? a super supercomputer
-  * This computer will be used for data analysis
+    * This computer will be used for data analysis
   * Also used for mass data storage
   * Running extremely complex simulations for astrophysicists to collect data with
   *   All in one telescope
