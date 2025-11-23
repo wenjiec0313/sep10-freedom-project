@@ -36,6 +36,7 @@ Topic: Astrophysics
   * There's also Neutrino detectors that captures elusive subatomic particles from space
   * X-ray and gamma-ray telescopes Because Earth's atmosphere blocks these high-energy wavelengths, these telescopes are launched into space. The Chandra X-ray Observatory is a prime example.
   * These telescopes help observe X-ray and Gamma rays as earth's atmosphere blockes these high-energy wavelengths preventing us from observing and learning more about them
+![](https://spacearcade.in/wp-content/uploads/2024/05/030A9952-copy-scaled.jpg)
 *  Most Complex
    * Spectrometers that analyze the light from stars and galaxies to determine their composition  and other propties
    *    Space probes, Robotic  spacecraft that are sent to study celestial bodies up close
