@@ -18,9 +18,9 @@ Topic: Astrophysics
   * Great educational app/simulation.
   * Runs on any hardware, simulation/app website
 *   [MATLAB](https://www.mathworks.com/matlabcentral/fileexchange/69815-astronomy-astrophysics-toolbox-for-matlab-maat)
-  * Good for astrophysics analyis
-  * good for experimental simulation
-  * Runs on any hardware, simulation/app website
+    * Good for astrophysics analyis
+    * good for experimental simulation
+    * Runs on any hardware, simulation/app website
 * [Stellarium](https://stellarium.org/)
   * Software that helps users stargaze, it's like a binoculars or a telescope but with the naked eye
   * Requires a computer
