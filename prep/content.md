@@ -47,8 +47,8 @@ Topic: Astrophysics
    *    CCD cameras and filters used with telescopes to capture and record images of celestial body.
    *    Interferometers:Arrays of telescope or radio dishes that work together to produce higher-resoultion images than a single instrument could achieve
    *  Bolometer, They are used in microwave and radio astronomy, these detectors measure the energy of incoming photons by registering how much they warm a superconducting material.
-     ![] (https://media.wired.com/photos/59326efe9be5e55af6c24e08/master/pass/rsz_1gordon_med1.jpg)
-## Part B: possible future technology
+     ![](https://media.wired.com/photos/59326efe9be5e55af6c24e08/master/pass/rsz_1gordon_med1.jpg)
+ ## Part B: possible future technology
 * What's better than a supercomputer? a super supercomputer
   * This computer will be used for data analysis
   *   Also used for mass data storage
