@@ -7,10 +7,10 @@ Topic: Astrophysics
 * this requires advanced math skills and information on celestial bodies(Black holes, planets, stars and etc)
 
 ## Part A: existing technology
-   * Least Complex
-* [SkySafari7](https://skysafariastronomy.com/)
+* Least Complex
+  * [SkySafari7](https://skysafariastronomy.com/)
 * A app about star gazing
-*    finds events such as solar eclipse,lunar phases, planetary occultations and etc.
+* finds events such as solar eclipse,lunar phases, planetary occultations and etc.
 * Mobile App(Phone)
 * [MESA](https://mesastar.org/)
 * Helps run simulated experiments
