@@ -59,5 +59,5 @@ Topic: Astrophysics
   * Mode 2:Radio wave telescope
   *   Mode 3:Infrared light telescope
 *  Ultra dectetors to detect signals from outer space
-  *  Detectors signals from extreme distances
-  *  Helps discover near planets/stars/objects
+   *  Detectors signals from extreme distances
+   *  Helps discover near planets/stars/objects
