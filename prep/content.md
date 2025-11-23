@@ -42,7 +42,7 @@ Topic: Astrophysics
   *    These space probes can be great hardware for us to get a first impression of this celestial bodies, safe or not? and etc
   *    There are also supporting hardwares such as:
   *    Supercomputers, this serves as a data stroage and can help simulate complext simulations to test certain tests.
-  *    Adaptive Optics, a system used for the ground-based telescope to correct atmosphere blurring
+*    Adaptive Optics, a system used for the ground-based telescope to correct atmosphere blurring
   *    CCD cameras and filters used with telescopes to capture and record images of celestial body.
   *    Interferometers:Arrays of telescope or radio dishes that work together to produce higher-resoultion images than a single instrument could achieve
   *  Bolometer, They are used in microwave and radio astronomy, these detectors measure the energy of incoming photons by registering how much they warm a superconducting material.
