@@ -1,5 +1,5 @@
 # Content
-Topic: **Astrophysics**
+Topic: Astrophysics
 
 ### Overview/Introduction/Context
 * Astrophysics is a topic that incorporates both astrology and physics
