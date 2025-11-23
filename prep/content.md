@@ -58,5 +58,5 @@ Topic: Astrophysics
 * Mode 2:Radio wave telescope
 * Mode 3:Infrared light telescope
 ###   Ultra dectetors to detect signals from outer space
-*  Find new things to study on
-* Discover new possible beings/planets/stars/black hole
+* Hello world....
+  *Hello!
