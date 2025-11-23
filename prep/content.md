@@ -52,12 +52,11 @@ Topic: Astrophysics
 *   Also used for mass data storage
 * Running extremely complex simulations for astrophysicists to collect data with
 ###   All in one telescope
-  * A telescope that does the job of all neeeded telescope
-  * How it will function, it can switch between modes for different usage
-  * Mode 1:Gamma ray telescope
-  * Mode 2:Radio wave telescope
-  * Mode 3:Infrared light telescope
-    * New...
+* A telescope that does the job of all neeeded telescope
+* How it will function, it can switch between modes for different usage
+* Mode 1:Gamma ray telescope
+* Mode 2:Radio wave telescope
+  *   Mode 3:Infrared light telescope
 ###   Ultra dectetors to detect signals from outer space
 * Hello world....
   * Hello!
