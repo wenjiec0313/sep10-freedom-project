@@ -50,7 +50,7 @@ Topic: Astrophysics
 * What's better than a supercomputer? a super supercomputer
   * This computer will be used for data analysis
   *   Also used for mass data storage
-* Running extremely complex simulations for astrophysicists to collect data with
+  * Running extremely complex simulations for astrophysicists to collect data with
 * All in one telescope
   * A telescope that does the job of all neeeded telescope
   * How it will function, it can switch between modes for different usage
