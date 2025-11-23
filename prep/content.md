@@ -26,7 +26,7 @@ Topic: Astrophysics
   * Requires a computer
   *   Minimal:Windows 7 and above; macOS 10.13 and above
   * In general a great software for astrophysics
- ### Mildly Complex
+* Mildly Complex
   * Telescopes
   * There's ground-based telescope used to observe stars and light that are visible on earth using a telescope
   * There are also space-based telescopes where they're located on a space craft, helping us discover more about outer space
