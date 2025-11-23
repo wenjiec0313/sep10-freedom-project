@@ -47,16 +47,14 @@ Topic: Astrophysics
    *    Interferometers:Arrays of telescope or radio dishes that work together to produce higher-resoultion images than a single instrument could achieve
    *  Bolometer, They are used in microwave and radio astronomy, these detectors measure the energy of incoming photons by registering how much they warm a superconducting material.
 ## Part B: possible future technology
-###   What's better than a supercomputer? a super supercomputer
-* This computer will be used for data analysis
-*   Also used for mass data storage
+* What's better than a supercomputer? a super supercomputer
+  * This computer will be used for data analysis
+  *   Also used for mass data storage
 * Running extremely complex simulations for astrophysicists to collect data with
-###   All in one telescope
-* A telescope that does the job of all neeeded telescope
-* How it will function, it can switch between modes for different usage
-* Mode 1:Gamma ray telescope
-* Mode 2:Radio wave telescope
+* All in one telescope
+  * A telescope that does the job of all neeeded telescope
+  * How it will function, it can switch between modes for different usage
+  * Mode 1:Gamma ray telescope
+  * Mode 2:Radio wave telescope
   *   Mode 3:Infrared light telescope
-###   Ultra dectetors to detect signals from outer space
-* Hello world....
-  * Hello!
+*  Ultra dectetors to detect signals from outer space
