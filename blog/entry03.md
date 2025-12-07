@@ -14,6 +14,7 @@ I was a little ticked off at how I was constantly messing up with the dots (fill
 while doing my organization of my content, as I cannot get one of them to turn in the desired look,But when I put in a new line of paragraph and apply the spacing rule it works, so I decided to rearranged everything and unindented every line and slowly made sure I clicked space 2 times for 
   * k
 * k
+
 [Previous](entry02.md) | [Next](entry04.md)
 
 [Home](../README.md)
