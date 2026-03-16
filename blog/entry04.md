@@ -40,7 +40,7 @@ I first tinkered around by adjusting the plate size via height and width
 ```
 This only made the plate a  lot bigger
 
-
+Then I tried to put the sphere onto the cylinder to create a tree shape.
 
 
 
