@@ -56,6 +56,8 @@ Then I tried to put the sphere onto the cylinder to create a tree shape.
     </a-scene>
   </body>
 </html>
+```
+I tried my best, the Z value was hard to control since even a small change of 0.5 can sometimes change it's position by a lot which made it impossible to put the sphere exactly where you wanted it
 
 [Previous](entry03.md) | [Next](entry05.md)
 
