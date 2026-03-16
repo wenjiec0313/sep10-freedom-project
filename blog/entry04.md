@@ -61,6 +61,9 @@ I tried my best, the Z value was hard to control since even a small change of 0.
 
 # Skills
 
+### Growth Mindset
+While Doing this blog I faced many issues, Half-way through I was ready to commit my first change but noticed there was warning about a merge conflict I clicked on it and redirect me to selecting a branch but when I tried to get back and commit my change I couldn't all my work was gone but Thankfully I actually created a file which helped me recover some of my progress back but half way through again, a random refresh later, all my work was gone, I decided to not give up, calmed down and went to do this blog on my IDE instead of github
+
 
 [Previous](entry03.md) | [Next](entry05.md)
 
