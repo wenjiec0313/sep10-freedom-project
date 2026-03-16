@@ -63,7 +63,8 @@ I tried my best, the Z value was hard to control since even a small change of 0.
 
 ### Growth Mindset
 While Doing this blog I faced many issues, Half-way through I was ready to commit my first change but noticed there was warning about a merge conflict I clicked on it and redirect me to selecting a branch but when I tried to get back and commit my change I couldn't all my work was gone but Thankfully I actually created a file which helped me recover some of my progress back but half way through again, a random refresh later, all my work was gone, I decided to not give up, calmed down and went to do this blog on my IDE instead of github
-
+### How to Learn
+I learnt today by playing around with the tool that I'll be working with for the rest of the year, Learning on your own (LOYO)Is a good method is learn on your pacing and level skill without relying on another to lecture how to do so, and it's fun to explore instead of being forced to learn this or learn that because you need to , learning on your own can help you learn things you want to learn instead of being forced to do something you don't want to do.
 
 [Previous](entry03.md) | [Next](entry05.md)
 
