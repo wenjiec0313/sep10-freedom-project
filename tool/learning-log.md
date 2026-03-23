@@ -5,6 +5,7 @@
 ---
 
 ### 3/22/26:
+Learning Via Reading on offical aframe website
 * Aframe's positioning is composed of X, Y, and Z
 * You can use remote links to apply texture to the desired shapes
 * You can animate objects, for example making a box spin when interacting with it
