@@ -1,11 +1,15 @@
 # Tool Learning Log
 
-## Tool: **X**
+## Tool: **Aframe**
 
 ---
 
-### X/X/XX:
-* Text
+### 3/22/26:
+Aframe's positioning is composed of X, Y, and Z
+You can use remote links to apply texture to the desired shapes
+You can animate objects, for example making a box spin when interacting with it
+<a-sound></a-sound> to add audio
+<a-entity></a-entity> to add text
 
 ### X/X/XX:
 * Text
