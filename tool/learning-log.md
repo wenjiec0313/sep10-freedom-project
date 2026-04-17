@@ -35,7 +35,9 @@ Learning Via Reading on offical aframe website
 ### 4/16/26
 * Beginning to try to make a model of a telescope
 * "0 0 -60" rotation seems look a bit more accurate than my previous rotation
-
+### 4/17/26
+* Telescope began to take shape
+* Learned to scale and position cylinders to make them line p
 
 
 
