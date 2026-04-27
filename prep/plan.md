@@ -1,11 +1,11 @@
 # Plan
 
 ## Wireframes
-* [Mobile]()
-* [Desktop]()
+* [Mobile](https://wireframe.cc/j42Hjh)
+* [Desktop](https://wireframe.cc/6NgaIM)
 
 ## Colors
-* `#ABC123`
+* `
 
 ## Fonts
 * [Text](URL)
@@ -29,7 +29,7 @@
 
 <!-- DO NOT USE THIS YET
 
-#### Peer Feedback 
+#### Peer Feedback
 
 | Name | Glows | Grows |
 | -------- | ------- | ------- |
