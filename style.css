@@ -8,5 +8,7 @@
   align-items: center;
   color: white;
   text-align: center;
+    filter: brightness(60%);
 background-image: url('blackhole.gif');
 }
+
