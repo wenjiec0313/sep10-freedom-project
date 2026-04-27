@@ -1,0 +1,12 @@
+.home {
+  background-size: cover;
+  background-position: center;
+  height: 400px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  text-align: center;
+background-image: url('hot-air-balloon-albuquerque-balloon-fiesta-balloons-balloon-preview.jpg');
+}
