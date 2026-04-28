@@ -12,11 +12,9 @@
 background-image: url('blackhole.gif');
 }
 
-
-body {
+body{
   font-family: "Orbitron", sans-serif;
   font-optical-sizing: auto;
-  font-weight: <weight>;
   font-style: normal;
 }
 
@@ -28,4 +26,5 @@ color:#ea5b1b;
 
 .text-center {
   text-align:center;
+  padding-top:50px;
 }
