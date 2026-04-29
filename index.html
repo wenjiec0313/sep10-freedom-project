@@ -30,13 +30,21 @@
     <div class="collapse navbar-collapse" id="navbarNav">
       <ul class="navbar-nav">
         <li class="nav-item">
-          <a class="nav-link active" aria-current="page" href="#">Home</a>
+          <a class="nav-link active" aria-current="page" href="#home">Home</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="#">Context</a>
+          <a class="nav-link" href="#context">Context</a>
         </li>
-        <li class="nav-item">
-          <a class="nav-link" href="#">Part A</a>
+         <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+            Part A
+          </a>
+          <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+            <li><a class="dropdown-item" href="#software">Softwares</a></li>
+            <li><a class="dropdown-item" href="#hardware">Hardwares</a></li>
+
+
+          </ul>
         </li>
           <li class="nav-item">
           <a class="nav-link" href="#">Part B</a>
@@ -49,16 +57,16 @@
     </div>
   </div>
 </nav>
-<div class = "home">
+<div class = "home" id="home">
 <h1 class="title">AstroPhysics</h1>
 
 
 
 </div>
 
-<div class="container-fluid">
+<div class="container-fluid context">
   <div class="container text-center">
-<h1>Context</h1>
+<h1 id="context">Context</h1>
 <p>
 Astrophysics is a topic that incorporates both astrology and physics,studying about celestial bodies using physics technologies help astrophysicists analyize info and simulate experiments.This requires advanced math skills and information on celestial bodies(Black holes, planets, stars and etc), there are many hardwares and softwares in this field, whether being telescope, sensors,supercomputers or softwares help simulate blackholes and other situtations for data testing.
 </p>
@@ -67,10 +75,10 @@ Astrophysics is a topic that incorporates both astrology and physics,studying ab
   </div>
 </div>
 
-<div class="container-fluid " id="software">
+<div class="container-fluid " >
  <div class="container">
 <h1 class="text-center">Part A:Current Tech</h1>
-  <h1 class="text-center">Software</h1>
+  <h1 class="text-center" id="software">Software</h1>
   <div class="row">
   <div class="col-sm-6 col-lg-3">
 <h2>
@@ -110,7 +118,7 @@ Requires a computer,Minimal:Windows 7 and above; macOS 10.13 and above,in genera
 </div>
 <div class="container-fluid">
   <div class="container">
-    <h1 class="text-center">Hardware</h1>
+    <h1 class="text-center" id="hardware">Hardware</h1>
 <div class="row">
 
   <div class="col-sm-12 col-lg-6">
