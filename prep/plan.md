@@ -18,7 +18,7 @@
 4/30/26 Finish on content
 5/1/26 Work on using a-frame to crate future tech
 5/2/26 continue working on tool
-5/3/26 do color theme
+
 
 
 #### MVP
@@ -28,9 +28,11 @@ Everything written in timeline, but maybe not theme if not enoguh time
 ---
 
 #### Beyond MVP
+-[]Improve a-frame
+-[]Color theme
+-[]
+-[]Custom made logo
 
-* Work on custom logo for website
-*
 
 
 
@@ -43,7 +45,7 @@ Everything written in timeline, but maybe not theme if not enoguh time
 
 | Name | Glows | Grows |
 | -------- | ------- | ------- |
-|  |  |  |
+|Sadik|I really like the gif that pops out when you open up the page, the font goes really well with your website and the information layed out on your website like the quick overview of a normal telescope vs your telescope help with understanding information you have down.  | I think you can work on your Aframes model because it's a little underwhelming and looks like a generic telescope and I feel like there's too much white and it doesn't contrast too well with some parts of the website.|
 |  |  |  |
 |  |  |  |
 |  |  |  |
