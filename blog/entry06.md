@@ -68,8 +68,10 @@ I'm on step 6-8, I'm almost done testing my project and focused my time on impro
 
 ## Skills
 
-#### How to learn
+### How to learn
+This process of creating my project was a great journey of learning and working along the process as I learnt more about how to use my tool along the way and I was exposed to using new codes, overall this project helped me learned more about coding as a whole
 
+### Time management
 [Previous](entry05.md) | [Next](entry07.md)
 
 [Home](../README.md)
