@@ -7,7 +7,7 @@ I started creating my MVP product based on my wireframe and I took inspiration f
 
 Although it was fun it was also challenging, creating a a-frame of my future technology to creating the code of my project.
 
-
+## Process 
 creating my a-frame toom a lot of time, making sure each shape is in the right spot, even when I found this rotation difficult I still attempted  to do it and evenutally I got a product I liked, It was quite difficult to turn X, Y, Z rotation + positioning but evenutally I got the hang of it after a little experimenting 
 ```html
 <a-scene>
