@@ -3,7 +3,7 @@
 
 ## Context
 I started creating my MVP product based on my wireframe and I took inspiration from the SHABR project, I added components such as home page because that's one of the thing I liked about the SHABR project, It was extremely fun to create a project based on what I liked and enjoyed, here's an image and link to the Preview of my [Website](https://wenjiec0313.github.io/sep10-freedom-project/)
-
+![](../Preview.png)
 [Previous](entry05.md) | [Next](entry07.md)
 
 [Home](../README.md)
