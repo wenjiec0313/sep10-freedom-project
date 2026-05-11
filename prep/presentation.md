@@ -1,13 +1,15 @@
 # Presentation Plan
 
 ## Hook
-* 
+* "Ever wondered about how heavy a black hole is? You can find out with Astrophysics!
 
 ## Product
-* 
+* Discuss about how I used my tools (Navbar + Toast)
+* Discuss about tool(a-frame)
+* Discuss about responsive web design
 
 ## Process
-* 
+* Discuss about challenges I faced while creating a-frame(specifically about learning along the way of creating my a=frame, as I learned about X, Y, Z positioning and rotations
 
 ## Conclusion
 * 
