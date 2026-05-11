@@ -1,7 +1,8 @@
 # Entry 6
-##### X/X/XX
+##### 5/10/26
 
-Text
+## Context
+I started creating my MVP product based on my wireframe and I took inspiration from the SHABR project, I added components such as home page because that's one of the thing I liked about the SHABR project,
 
 [Previous](entry05.md) | [Next](entry07.md)
 
