@@ -73,6 +73,8 @@ This process of creating my project was a great journey of learning and working 
 
 ### Time management
 Time management was extremely important last week, as we had to create plan on what we're going to do for each day, and If you weren't able to complete each day's goal It was important to find a way to make it up so you don't fall behind on your plan or your plan would slowly collapse as work begins to pile up on you.
+
+
 [Previous](entry05.md) | [Next](entry07.md)
 
 [Home](../README.md)
