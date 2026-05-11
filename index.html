@@ -198,6 +198,7 @@ Requires a computer,Minimal:Windows 7 and above; macOS 10.13 and above,in genera
   </div>
 </div>
 
+
 <!-- HTML -->
 
 
@@ -205,7 +206,15 @@ Requires a computer,Minimal:Windows 7 and above; macOS 10.13 and above,in genera
         <!-- <script src="script.js"></script> -->
         <script>
             // JS
+const toastTrigger = document.getElementById('liveToastBtn')
+const toastLiveExample = document.getElementById('liveToast')
 
+if (toastTrigger) {
+  const toastBootstrap = bootstrap.Toast.getOrCreateInstance(toastLiveExample)
+  toastTrigger.addEventListener('click', () => {
+    toastBootstrap.show()
+  })
+}
 
         </script>
     </body>
