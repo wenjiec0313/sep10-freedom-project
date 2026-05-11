@@ -65,6 +65,8 @@ Then I was struggling to decide a second bootstrap component to use but I finall
 ```
 ## EDP
 I'm on step 6-8, I'm almost done testing my project and focused my time on improving it as needed based on the feedback I received from my peers/classmates, and we're about to present our projects therefore making it also step 8.
+
+
 [Previous](entry05.md) | [Next](entry07.md)
 
 [Home](../README.md)
