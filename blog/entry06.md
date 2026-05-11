@@ -45,6 +45,24 @@ creating my a-frame toom a lot of time, making sure each shape is in the right s
 </a-scene>
 
 ```
+Then I was struggling to decide a second bootstrap component to use but I finally decided on using a toast to redirect other students to my SEP portfolio to see my other projects.
+```html
+<button type="button" class="btn btn-primary" id="liveToastBtn">Funny Button</button>
+
+<div class="toast-container position-fixed bottom-0 end-0 p-3">
+  <div id="liveToast" class="toast" role="alert" aria-live="assertive" aria-atomic="true">
+    <div class="toast-header">
+      <strong class="me-auto">Important Notification</strong>
+      <small>Just now</small>
+      <button type="button" class="btn-close" data-bs-dismiss="toast" aria-label="Close"></button>
+    </div>
+    <div class="toast-body">
+      If you enjoyed this project please consider checking out my other <a href="https://wenjiec0313.github.io/">projects!</a>
+    </div>
+  </div>
+</div>
+
+```
 [Previous](entry05.md) | [Next](entry07.md)
 
 [Home](../README.md)
