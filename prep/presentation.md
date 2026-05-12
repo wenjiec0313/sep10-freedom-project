@@ -7,7 +7,7 @@
 * Discuss about how I used my tools (Navbar + Toast)
 * Discuss about tool(a-frame)
 * Discuss about responsive web design
-* MVP 
+* Part B, tech all in one telescope a telescope advanced enough to observe radio, gamma, infrared and normal sky-watching.
 
 ## Process
 * Discuss about challenges I faced while creating a-frame(specifically about learning along the way of creating my a=frame, as I learned about X, Y, Z positioning and rotations, Process of creating MVP, such as how I created the responsive design
