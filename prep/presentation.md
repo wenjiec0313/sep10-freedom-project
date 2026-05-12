@@ -1,7 +1,7 @@
 # Presentation Plan
 
 ## Hook
-* "Ever wondered about how heavy a black hole is? You can find out with Astrophysics!
+"Can you imagine what a black hole looks like or the occurence of a supernova? You can do that with astrophysics simulations/softwares!"
 
 ## Product
 * Discuss about how I used my tools (Navbar + Toast)
