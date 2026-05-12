@@ -1,7 +1,7 @@
 # Presentation Plan
 
 ## Hook
-"Can you imagine what a black hole looks like or the occurence of a supernova? You can do that with astrophysics simulations/softwares!"
+"Ever wonder about what a black hole looks like or the occurence of a supernova? You can do that with astrophysics simulations/softwares!"
 
 ## Product
 * Discuss about how I used my tools (Navbar + Toast)
