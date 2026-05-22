@@ -7,7 +7,7 @@ RWD
 
 Ranking:
 * Topic
-* Purpose 
+* Purpose explain issue + how tools will fix this issue
 * Part B
 * Tool
 * RWD
