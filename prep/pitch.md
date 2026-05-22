@@ -6,9 +6,9 @@ Purpose
 RWD
 
 Ranking:
-Topic
-Purpose 
-Part B
-Tool
-RWD
+* Topic
+* Purpose 
+* Part B
+* Tool
+* RWD
 
