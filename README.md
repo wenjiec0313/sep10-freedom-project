@@ -16,9 +16,11 @@ I used HTML, CSS, Bootstrap, and Github. I also chose to independently study **A
 
 ## Implications
 ##### PROS
-* 
+* Helps astrophysics discover our galaxy/universe
+* easy to use, mostly being ugraded version of previous tech
 ##### CONS
-* 
+* Highly advanced, might take years to recreate
+* Extreme cost, high cost to get materials needed for the future tech
 
 
 ## Blog
