@@ -10,9 +10,9 @@ I used HTML, CSS, Bootstrap, and Github. I also chose to independently study **A
 
 ## Links
 
-[Product]()
+[Product](https://wenjiec0313.github.io/sep10-freedom-project/)
 
-[Presentation]()
+[Presentation](https://docs.google.com/presentation/d/1ZsTIlZXx-5WsYj3iq3SO22Cws6ImE_GMefoX2IOlA-g/edit?slide=id.g3e125db621d_0_3686#slide=id.g3e125db621d_0_3686)
 
 ## Implications
 ##### PROS
