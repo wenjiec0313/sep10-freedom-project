@@ -2,7 +2,7 @@
 ##### 6/7/26
 
 ### Context
-overall I found presenting my presentation and expo elevator pitch really fun
+overall I found presenting my [presentation]() and [expo elevator pitch]() really fun
 
 
 
